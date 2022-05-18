@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://cuiheng@172.28.1.24:22/home/cuiheng/anaconda3/envs/CCIL/bin/python3.7" />
+        <remote-mappings server-id="python@sftp://huangyanhui@172.28.1.21:22/home/huangyanhui/anaconda3/envs/vn/bin/python3.7" />
+      </list>
+    </list>
+  </component>
+</project>
